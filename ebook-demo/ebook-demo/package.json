@@ -18,7 +18,7 @@
     "epubjs": "^0.3.85",
     "less": "^3.11.1",
     "less-loader": "^5.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "normalize.css": "^8.0.1",
     "sass-loader": "^7.3.1",
     "vue": "^2.5.2",
